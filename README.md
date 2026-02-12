@@ -1,4 +1,5 @@
-# One Month to Type Better
+# Skill Keys
+
 
 A full-stack typing practice application built with FastAPI and React.
 
