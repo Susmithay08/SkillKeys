@@ -9,7 +9,7 @@ https://skill-keys.vercel.app
 
 ## Preview
 
-<img src="./Skillkeys.png" width="800" />
+<img src="./Live.png" width="800" />
 
 
 
