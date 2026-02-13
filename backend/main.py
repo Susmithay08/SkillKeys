@@ -6,10 +6,12 @@ from routes import auth_routes, typing_routes
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="SkillKeys API")
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "http://localhost:5173",
+        "https://skill-keys.vercel.app"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
