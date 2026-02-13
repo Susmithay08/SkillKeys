@@ -7,6 +7,11 @@ A full-stack typing practice application built with FastAPI and React.
 Frontend (Vercel):  
 https://skill-keys.vercel.app
 
+## Preview
+
+<img src="./Skillkeys.png" width="800" />
+
+
 
 
 ## Features
